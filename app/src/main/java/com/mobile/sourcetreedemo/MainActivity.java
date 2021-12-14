@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         Log.d("MainActivity", "testing for github");
+         Log.d("MainActivity", "Log added from backend");
     }
 
     @Override
